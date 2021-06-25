@@ -1,0 +1,8 @@
+.menuheader__list {
+    display: flex;
+    flex-direction: row;
+    
+}
+.menu_header_item a {
+    list-style: none;
+}

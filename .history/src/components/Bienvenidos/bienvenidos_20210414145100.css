@@ -1,0 +1,14 @@
+.bienvenidos__container {
+    width: 100%;
+    font-size: 1.2rem;
+}
+.bienvenidos__titulo__subrayado{
+    border: 1px solid green;
+    align-items: center;
+    /* background-color: red; */
+}
+.bienvenidos__subrayado {
+
+    width: 50px;
+    height: 10px;
+}

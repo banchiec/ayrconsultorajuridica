@@ -1,0 +1,14 @@
+.menu__container {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid blue ;
+    width: 100%;
+    padding: 0;
+    height: auto;
+    
+}
+
+.menu__item {
+    margin-left: 20px;
+    border: 1px solid green;
+}

@@ -1,0 +1,20 @@
+.footer__container {
+    /* border:  1px solid green; */
+    bottom: 0;
+    height: 100%;
+    background-color: rgb(62, 63, 70);
+    position:fixed;
+    /* background-color: green; */
+}
+.footer__list {
+    border:  1px solid green;
+    width: 20%;
+}
+.footer__redes{
+    display: flex;
+    flex-direction: row;
+    border:  1px solid green;
+}
+.footer__contactanos {
+    border:  1px solid green;
+}

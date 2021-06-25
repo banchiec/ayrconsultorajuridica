@@ -1,0 +1,14 @@
+.black {
+    color: black;
+}
+.banner__mobile__container {
+    display: none;
+}
+@media only screen and (max-width: 600px) {
+    .banner__mobile__container {
+        display: inline;
+    }
+    .banner__item__title {
+        font-size: 2rem;
+    }
+}

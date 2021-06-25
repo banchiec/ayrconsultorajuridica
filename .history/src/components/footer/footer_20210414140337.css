@@ -1,0 +1,33 @@
+.footer__container {
+    /* border:  1px solid green; */
+    width: 100%;
+    height: 60px;
+    color: whitesmoke;
+    background-color: rgb(62, 63, 70);
+    /* position:fixed; */
+    /* background-color: green; */
+}
+.footer__list {
+    border:  1px solid green;
+    width: 20%;
+}
+.footer__redes{
+    display: flex;
+    flex-direction: row;
+    border:  1px solid green;
+}
+.footer__redes span {
+    margin-right: 10px;
+}
+.footer__container__icons a {
+    margin: 0 8px 0 8px;
+}
+.footer__container__icons a i {
+    color:  whitesmoke;
+}
+.footer__contactanos {
+    border:  1px solid green;
+}
+.footer__contactanos span {
+    margin-right: 10px;
+}

@@ -1,0 +1,29 @@
+.carousel__item {
+
+    height: 150%;
+    /* border: 1px solid green; */
+    /* height: 40%; */
+}
+.banner__container {
+    width: 100%;
+    /* height: 50%; */
+    
+
+    height: 150%;
+    /* display: flex; */
+    /* z-index: -3; */
+    /* opacity: 100; */
+    /* margin-top: -10px; */
+    /* border: 1px solid green; */
+
+}
+.banner__item__title {
+    border: 1px solid green;
+    font-size: 5rem;
+    color: black;
+}
+.banner__caption {
+    position:absolute
+    margin-top: -42px;
+    border: 1px solid green;
+}

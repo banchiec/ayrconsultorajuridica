@@ -1,0 +1,19 @@
+.menuheader__container{
+    
+    border: 1px solid green;
+
+}
+.menuheader__list {
+    border: 1px solid green;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.menu_header_item  {
+    list-style: none;
+    margin-right: 5rem;
+}
+.menu_header_item a {
+    font-size: 2rem;
+    color: whitesmoke;
+}

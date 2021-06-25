@@ -1,0 +1,44 @@
+.footer__container {
+    /* border:  1px solid green; */
+    width: 100%;
+    /* height: 60px; */
+    color: whitesmoke;
+    background-color: rgb(62, 63, 70);
+    align-items: center;
+    text-align: center;
+    /* position:fixed; */
+    /* background-color: green; */
+}
+.footer__redes{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    /* border:  1px solid green; */
+}
+.footer__redes span {
+    margin-right: 10px;
+}
+.footer__container__icons a {
+    margin: 0 8px 0 8px;
+}
+.footer__container__icons a i {
+    color:  whitesmoke;
+}
+.footer__contactanos {
+    /* border:  1px solid green; */
+}
+.footer__contactanos span {
+    margin-right: 10px;
+}
+
+/* responsive */
+@media screen and (min-width 768px){
+
+    .footer__redes {
+        width: 70%;
+        margin-left: 15%;
+    }
+    
+    
+
+}

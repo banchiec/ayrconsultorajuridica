@@ -1,0 +1,10 @@
+.bienvenidos__container {
+    width: 100%;
+    font-size: 1.2rem;
+}
+.bienvenidos__titulo__subrayado{
+    border: 1px solid green;
+    position: absolute;
+    align-items: center;
+    /* background-color: red; */
+}

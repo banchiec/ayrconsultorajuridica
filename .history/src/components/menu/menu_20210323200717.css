@@ -1,0 +1,50 @@
+.menu__container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    /* border: 1px solid green; */
+    width: 100%;
+}
+
+.menu__container ul {
+    /* border: 1px solid green; */
+    padding: 0;
+    margin-top: 1rem;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+
+.menu__container ul li {
+    /* border: 1px solid green; */
+    margin-right: 1.4vw;
+}
+.menu__container ul li a{
+    /* border: 1px solid green; */
+    color: black;
+}
+.menu__container ul li a:hover{
+    cursor: pointer;
+    /* color: palevioletred; */
+}
+
+.menu__item {
+    margin-top: 0.1vw;
+    font-size:  1.02rem;
+}
+
+.menu__item a:hover {
+    text-decoration: none;
+    cursor: pointer;
+    color: grey;
+}
+
+/* icon */
+.menu__icon {
+    margin-bottom: 0.34rem;
+    margin-right: .9rem;
+}
+.menu__item  a img:hover{
+    cursor: pointer;
+    fill: green ;
+}

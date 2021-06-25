@@ -1,0 +1,36 @@
+.menu__container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-top: 0.3vw;
+    width: 100%;
+}
+
+.menu__container ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+
+.menu__container ul li {
+    /* border: 1px solid green; */
+    margin-right: 1.4vw;
+}
+.menu__container ul li a{
+    /* border: 1px solid green; */
+    color: black;
+}
+.menu__container ul li a:hover{
+    cursor: pointer;
+    color: cyan;
+}
+
+.menu__item {
+    margin-top: 0.1vw;
+    font-size:  1.02rem;
+}
+
+.menu__item a:hover {
+    cursor: pointer;
+    color: chartreuse;
+}

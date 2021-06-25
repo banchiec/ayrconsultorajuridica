@@ -1,0 +1,26 @@
+.menuheader__container{
+    
+    border: 1px solid green;
+
+}
+.menuheader__list {
+    border: 1px solid green;
+    display: flex;
+    flex-direction: row;
+    margin-top: 26px;
+    margin-bottom: 26px;
+    
+}
+.menu_header_item  {
+    list-style: none;
+    margin-right: 5rem;
+}
+.menu_header_item a {
+    font-size: 1.2rem;
+    color: whitesmoke;
+}
+.menu_header_item a:hover {
+    cursor: pointer;
+    color: black;
+    transition: 1s;
+}

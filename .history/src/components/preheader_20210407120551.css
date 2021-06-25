@@ -1,0 +1,26 @@
+.pre__navbar {
+    display: flex;
+    height: 36px;
+    flex-direction: row;
+    /* border: 1px solid green; */
+    margin: 0.3vw 1vw ;
+
+    }
+#preheader__btn {
+    margin-top: 4.03px ;
+    border: transparent;
+    color: whitesmoke;
+    height: 32px;
+    /* width: 10%; */
+    padding: 0px 5px 0 5px;
+    border-radius: 5%;
+    background-color: #990033;
+    /* background-color: #D93148; */
+
+}
+#preheader__btn:hover {
+    color: black;
+    background-color: whitesmoke ;
+    transition: 0.8s;
+    border: 1px solid red;
+}

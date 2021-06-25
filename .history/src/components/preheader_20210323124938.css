@@ -1,0 +1,11 @@
+.pre__navbar {
+    display: flex;
+    flex-direction: row;
+    /* border: 1px solid green; */
+    margin: 0.3vw 1vw ;
+}
+.preheader__button:hover {
+
+    cursor: pointer;
+    color: darkcyan;
+}

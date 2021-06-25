@@ -1,0 +1,8 @@
+.pre__navbar {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid green;
+}
+.menu__item {
+
+}

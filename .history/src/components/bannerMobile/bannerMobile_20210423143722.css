@@ -1,0 +1,6 @@
+
+@media only screen and (max-width: 600px) {
+    .banner__item__title {
+        font-size: 2rem;
+    }
+}

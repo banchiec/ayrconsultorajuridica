@@ -1,0 +1,13 @@
+.pre__navbar {
+    display: flex;
+    flex-direction: row;
+    font-size: 1vw;
+    margin: 0.3vw 1vw ;
+    /* border: 1px solid green; */
+}
+.btn__preheader{
+    border: 0; 
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(218,29,214,0.5074404761904762) 77%);
+    padding: 0 1.2vw 0 1.2vw;
+    font-size: 1.2rem;
+}

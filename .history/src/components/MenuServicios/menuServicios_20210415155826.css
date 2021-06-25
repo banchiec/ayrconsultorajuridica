@@ -1,0 +1,37 @@
+.servicio__item{
+    display: flex;
+    border: 1px solid green;
+}
+.servicio__item i {
+    border:  1px solid red;
+    width: 20%;
+    color: red;
+    font-size: 4rem;
+}
+.menuServicios__container__item h1 {
+    font-size: 1rem;
+}
+.menuServicios__container__item {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+@media only screen and (max-width: 600px) {
+
+    .menuServicios__container h1 {
+        font-size: 1.5rem;
+    }
+    .servicio__item h2 {
+        width: 10px;
+    }
+
+    .menuServicios__container__item{
+        width: 10%;
+        flex-direction: column;
+    }
+    .menuServicios__container__info h1 {
+        font-size: 1.5rem;
+    }
+
+}

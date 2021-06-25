@@ -1,0 +1,17 @@
+.bienvenidos__container {
+    width: 100%;
+    font-size: 1.2rem;
+}
+.bienvenidos__titulo__subrayado{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* background-color: red; */
+}
+.bienvenidos__subrayado {
+
+    background-color: #990033;
+    width: 5%;
+    height: 10px;
+    /* border: 1px solid green; */
+}

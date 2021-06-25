@@ -1,0 +1,23 @@
+.menu__container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-top: 0.3vw;
+    width: 100%;
+}
+.menu__container ul {
+    border: 1px solid green;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.menu__item {
+    cursor: pointer;
+    margin-right: 20px;
+    margin-top: 0.1vw;
+    font-size:  1.02rem;
+}
+.menu__item :hover {
+    color: red;
+}

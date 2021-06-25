@@ -1,0 +1,9 @@
+.whatsApp__container {
+    /* border: 1px solid green; */
+}
+.whatsApp__container img{
+    position: absolute;
+    width: 2vw;
+    border: 1px solid green;
+
+}

@@ -1,0 +1,9 @@
+.menuheader__list {
+    display: flex;
+    flex-direction: row;
+    align-items: centeren;
+    
+}
+.menu_header_item  {
+    list-style: none;
+}

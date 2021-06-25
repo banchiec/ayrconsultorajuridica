@@ -1,0 +1,28 @@
+.bienvenidos__container {
+    margin-top: 1.4rem;
+    background-color: whitesmoke;
+    width: 100%;
+    font-size: 1rem;
+}
+.bienvenidos__jumbotron {
+    background-color: whitesmoke;
+}
+.bienvenidos__titulo__subrayado{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* background-color: red; */
+}
+.bienvenidos__subrayado {
+
+    margin-bottom: 1rem; 
+    background-color: #990033;
+    width: 5%;
+    height: 5px;
+    border-radius: 5px;
+    /* border: 1px solid green; */
+}
+.bienvenidos__texto {
+    width: 70%;
+    margin-left: 15%;
+}

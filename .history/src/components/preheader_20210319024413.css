@@ -1,0 +1,9 @@
+.pre__navbar {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid green;
+}
+.menu__item {
+    order: 5;
+
+}

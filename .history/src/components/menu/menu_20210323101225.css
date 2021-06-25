@@ -1,0 +1,13 @@
+.menu__container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-top: 0.3vw;
+    width: 100%;
+}
+
+.menu__item {
+    margin-right: 20px;
+    margin-top: 0.1vw;
+    font-size: 1.2rem;
+}

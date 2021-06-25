@@ -1,0 +1,10 @@
+.pre__navbar {
+    display: flex;
+    flex-direction: row;
+    /* border: 1px solid green; */
+    margin: 0.3vw 1vw ;
+}
+.preheder__button:hover {
+    
+    color: greenyellow;
+}

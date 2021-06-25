@@ -1,0 +1,9 @@
+.menu__container {
+    display: flex;
+    flex-direction: row;
+}
+
+.menu__item {
+    margin-left: 20px;
+    border: 1px solid green;
+}

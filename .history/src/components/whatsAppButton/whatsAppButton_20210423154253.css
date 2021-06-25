@@ -1,0 +1,15 @@
+.whatsApp__container {
+    /* border: 1px solid green; */
+}
+.whatsApp__container a:hover {
+    cursor: pointer;
+
+}
+.whatsApp__container img{
+    position: absolute;
+    bottom: 3rem;
+    right:  2rem;
+    width: 4.2vw;
+    /* border: 1px solid green; */
+
+}
